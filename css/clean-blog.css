@@ -5,7 +5,7 @@
  */
 body {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-size: 20px;
+  font-size: 16px;
   color: #333333;
 }
 p {
@@ -334,10 +334,11 @@ form .row:first-child .floating-label-form-group {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 1px;
-  border-radius: 0;
+  border-radius: 20;
   padding: 15px 25px;
+  background-color: #999;
 }
 .btn-lg {
   font-size: 16px;
